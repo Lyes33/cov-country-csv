@@ -4,6 +4,6 @@ Dans ce dossier je mis un lien public de postman d'une collection qui affiche le
 vous devez d'abord importer ce lien " https://www.getpostman.com/collections/754aaf17451d521f6727 "  dans postman 
 les variables utilisées sont : 
 -URL :  https://coronavirus-19-api.herokuapp.com
--country
+-country : contenue dans le fichier (espace de travail 1.postman_globals.json) 
 
 ensuite executer le rennuer avec le fichier csv  
