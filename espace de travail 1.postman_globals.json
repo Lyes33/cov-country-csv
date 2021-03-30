@@ -1,0 +1,14 @@
+{
+	"id": "9a51cc13-e666-4b93-8efe-bb79099dbf1b",
+	"values": [
+		{
+			"key": "country",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "espace de travail 1 Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-03-30T14:31:55.818Z",
+	"_postman_exported_using": "Postman/8.0.7"
+}
